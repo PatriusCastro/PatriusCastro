@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriuscastro&label=Profile%20views&color=0e75b6&style=flat" alt="patriuscastro" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_impat" target="blank"><img src="https://img.shields.io/twitter/follow/_impat?logo=twitter&style=for-the-badge" alt="_impat" /></a> </p>
-
 - 🔭 I’m currently working on [DingDorm](https://github.com/PatriusCastro/DingDorm)
 
 - 🌱 I’m currently learning **Frameworks, JavaScript, and Back-end Programming.**
