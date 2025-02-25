@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriuscastro&label=Profile%20views&color=0e75b6&style=flat" alt="patriuscastro" /> </p>
 
-- 🔭 I’m currently working on [DingDorm](https://github.com/PatriusCastro/DingDorm)
+- 🔭 I’m currently working on [iRenta]
 
-- 🌱 I’m currently learning **Frameworks, JavaScript, and Back-end Programming.**
+- 🌱 I’m currently learning **Frameworks, Laravel, PHP and Back-end Programming.**
 
 - 👨‍💻 All of my projects are available at [https://patriuscastro.netlify.app](https://patriuscastro.netlify.app)
 
