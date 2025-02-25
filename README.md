@@ -4,7 +4,7 @@
  <img width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5a3db7-fb07-4532-aa4c-93f5a5d5d651/d8aagwj-05603aa6-e3c6-4a2f-98ee-d1188bed4eb5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNWEzZGI3LWZiMDctNDUzMi1hYTRjLTkzZjVhNWQ1ZDY1MVwvZDhhYWd3ai0wNTYwM2FhNi1lM2M2LTRhMmYtOThlZS1kMTE4OGJlZDRlYjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kfd6cne5lRMtSAnOmLSn30PtRhXZwCJGClhgAD-UGmc" />
 </h1>
 
-<h3 align="center">A Information System student in the Philippines</h3>
+<h3 align="center">An Information System student in the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/5bgIOxLdYx1FFTZ4dQ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriuscastro&label=Profile%20views&color=0e75b6&style=flat" alt="patriuscastro" /> </p>
