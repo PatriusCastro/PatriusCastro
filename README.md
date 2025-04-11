@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriuscastro&label=Profile%20views&color=0e75b6&style=flat" alt="patriuscastro" /> </p>
 
-- 🔭 I’m currently working on [iRenta]
+- 🔭 I’m currently working on OJT
 
 - 🌱 I’m currently learning **Frameworks, Laravel, PHP and Back-end Programming.**
 
 - 👨‍💻 All of my projects are available at [https://patriuscastro.netlify.app](https://patriuscastro.netlify.app)
 
-- 📫 How to reach me **josuahcastro1@gmail.com**
+- 📫 How to reach me **patriuscastro@gmail.com**
 
 - 📄 Know about my experiences [https://patriuscastro.netlify.app/assets/Castro_CV.pdf](https://patriuscastro.netlify.app/assets/Castro_CV.pdf)
 
