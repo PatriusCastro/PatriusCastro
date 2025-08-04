@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Information+Systems+Student;Full-Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Cybersecurity+Analyst;Full-Stack+Developer;)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ```javascript
 const pat = {
     location: "Philippines 🇵🇭",
-    education: "Information Systems Student",
+    education: "Information Systems",
     currentFocus: ["Laravel", "PHP", "Backend Development", "Frameworks"],
     currentWork: "On-the-Job Training (OJT)",
     portfolio: "https://patcastro.netlify.app",
