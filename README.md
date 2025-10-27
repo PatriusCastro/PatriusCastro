@@ -14,10 +14,10 @@
 const pat = {
     location: "Philippines 🇵🇭",
     education: "Information Systems",
-    currentFocus: ["Laravel", "PHP", "Backend Development", "Frameworks"],
-    currentWork: "On-the-Job Training (OJT)",
+    currentFocus: ["React Native", "PostGreSQL", "Backend Development", "Frameworks"],
+    currentWork: "Todoro - A todo app with pomodoro",
     portfolio: "https://patcastro.netlify.app",
-    askMeAbout: ["Web Development", "Backend Systems", "Database Design"],
+    askMeAbout: ["Web Development", "Frontend Development", "Database Design"],
 };
 ```
 
