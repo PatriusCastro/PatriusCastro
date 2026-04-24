@@ -16,7 +16,7 @@ const pat = {
     education: "Information Systems",
     currentFocus: ["React Native", "PostGreSQL", "Backend Development", "Frameworks"],
     currentWork: "Todoro - A todo app with pomodoro",
-    portfolio: "https://patcastro.netlify.app",
+    portfolio: "https://patriuscastro.is-a.dev/",
     askMeAbout: ["Web Development", "Frontend Development", "Database Design"],
 };
 ```
