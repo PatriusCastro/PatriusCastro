@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Cybersecurity+Analyst;Full-Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;)](https://git.io/typing-svg)
 
 </div>
 
@@ -75,7 +75,7 @@ const pat = {
 
 ```yaml
 Learning:
-  - Framework Mastery: Laravel, PHP, Docker
+  - Framework Mastery: NextJS, PostgreSQL, Docker
   - Backend Development: API Design, Database Architecture
   - DevOps: Containerization, Deployment
   - System Design: Scalable Applications
@@ -100,13 +100,6 @@ Building:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_patissss)
 
 </div>
-
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
